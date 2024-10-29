@@ -1,0 +1,12 @@
+ucr\ac\cr\tm2100\g3\ajedrez\Ajedrez.class
+ucr\ac\cr\tm2100\g3\ajedrez\model\Reina.class
+ucr\ac\cr\tm2100\g3\ajedrez\model\Alfil.class
+ucr\ac\cr\tm2100\g3\ajedrez\view\PanelJuego.class
+ucr\ac\cr\tm2100\g3\ajedrez\model\Caballo.class
+ucr\ac\cr\tm2100\g3\ajedrez\model\Pieza.class
+ucr\ac\cr\tm2100\g3\ajedrez\view\GUITablero.class
+ucr\ac\cr\tm2100\g3\ajedrez\model\Peones.class
+ucr\ac\cr\tm2100\g3\ajedrez\view\GUITablero$1.class
+ucr\ac\cr\tm2100\g3\ajedrez\controller\ControladorJuego.class
+ucr\ac\cr\tm2100\g3\ajedrez\model\Torre.class
+ucr\ac\cr\tm2100\g3\ajedrez\model\Rey.class
